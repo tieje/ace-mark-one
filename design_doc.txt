@@ -1,0 +1,67 @@
+Design Doc for Project ACE
+
+Objective: create a central web app that stores and sends info to students and teachers for the PBL School System.
+-related to Pseudo-Plastic Flow
+Started: 11/18/2019
+
+'-' means I need to do this
+'+' means I have completed this
+'o' means I am currently working on this
+
+Design
+Properties
+
+backend will be django API
+frontend will be react + Axios
+
+backend will be created first
+  student profiles
+  teacher profiles
+  simple database system (use postgresql or whatever is free and simple). Try SQAlchemy with python
+  admin profiles
+
+frontend will be created last
+  
+Applications to Create
+
+Project related
+
+- Student uploading project proposals to their profile
+- Student uploading pre-approved projects for teachers to review
+- Teacher view of student profiles
+- Teacher marking project acceptance or rejection for
+- Independent Reviewer acceptance or rejection of original project
+- Tree list of Pre-approved projects base on subject (this actually needs to look good)
+- Teacher queue
+
+Core Functionality
+
+- Student Voting System
+  - Tree List of classes and teachers
+  - Student Class nomination
+- Classroom Decibel monitor
+- Public Hallway Screen showing permissed travel for which students
+- Card swipe data for student IDs
+- Teacher Advising session and for which students
+- 
+
+Quality of Life
+
+- Student view of teacher profiles
+- Teachers can upload resources for classes on their profile
+
+
+
+Backend: Django API
+
+TODO Checklist
+
+- 
+
+Frontend: React+Axios
+
+TODO Checklist
+
+- download npm
+- download React
+- download Axios
