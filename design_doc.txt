@@ -1,5 +1,5 @@
 Design Doc for Project ACE
-
+--------------------------------
 Objective: create a central web app that stores and sends info to students and teachers for the PBL School System.
 -related to Pseudo-Plastic Flow
 Started: 11/18/2019
@@ -21,8 +21,10 @@ backend will be created first
   admin profiles
 
 frontend will be created last
-  
+
+--------------------------------
 Applications to Create
+--------------------------------
 
 Project related
 
@@ -51,17 +53,34 @@ Quality of Life
 - Teachers can upload resources for classes on their profile
 
 
-
+--------------------------------
 Backend: Django API
+--------------------------------
 
 TODO Checklist
 
-- 
+- Set up Django API backend
+- Set up a database server for the backend.
+- Use heroku to serve the site
 
+--------------------------------
 Frontend: React+Axios
+--------------------------------
 
 TODO Checklist
 
 - download npm
 - download React
 - download Axios
+
+--------------------------------
+Steps
+--------------------------------
+
+1. Create a virtual environment for the project with django and django rest apis.
+  - look at the most recent version of django
+    - determine python version compatibility
+  - create the pipenv with a specific version of python
+2. Figure out how to link the backend to a postgresql database on heroku.
+3. Design what tables will be needed to store information.
+4. Look at how to 
