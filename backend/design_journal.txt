@@ -1,0 +1,8 @@
+design_journal
+
+11/21/2019
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-debian-10
+
+This guide helped me set up the postgresql database for the django project. It works!
+

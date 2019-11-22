@@ -7,6 +7,8 @@ Started: 11/18/2019
 '-' means I need to do this
 '+' means I have completed this
 'o' means I am currently working on this
+'x' means I skipped this or didn't need to do this.
+'n' means notes
 
 Design
 Properties
@@ -78,9 +80,10 @@ Steps
 --------------------------------
 
 1. Create a virtual environment for the project with django and django rest apis.
-  - look at the most recent version of django
-    - determine python version compatibility
-  - create the pipenv with a specific version of python
-2. Figure out how to link the backend to a postgresql database on heroku.
-3. Design what tables will be needed to store information.
+  + look at the most recent version of django
+    x determine python version compatibility
+  x create the pipenv with a specific version of python
+x 2. Figure out how to link the backend to a postgresql database on heroku.
+n I completed hosting on postgresql, YAY
+o 3. Design what tables will be needed to store information.
 4. Look at how to 
