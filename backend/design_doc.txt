@@ -85,5 +85,8 @@ Steps
   x create the pipenv with a specific version of python
 x 2. Figure out how to link the backend to a postgresql database on heroku.
 n I completed hosting on postgresql, YAY
-o 3. Design what tables will be needed to store information.
+o 3. Design what fields will be needed to store information.
+  - review django's data table system
+  - start small with creating student and teacher profiles
+  - install django rest APIs and django's other 3rd party apps that will make the API more approachable.
 4. Look at how to 
