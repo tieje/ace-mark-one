@@ -6,3 +6,7 @@ https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postg
 
 This guide helped me set up the postgresql database for the django project. It works!
 
+11/26/2019
+
+Test-driven development is important. Master it on Django. Look at test examples.
+

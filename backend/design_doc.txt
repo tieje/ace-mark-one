@@ -79,6 +79,8 @@ TODO Checklist
 Steps
 --------------------------------
 
+# Before after writing code always incorporate tests.
+
 1. Create a virtual environment for the project with django and django rest apis.
   + look at the most recent version of django
     x determine python version compatibility
