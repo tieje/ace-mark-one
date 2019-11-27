@@ -10,3 +10,8 @@ This guide helped me set up the postgresql database for the django project. It w
 
 Test-driven development is important. Master it on Django. Look at test examples.
 
+11/27/2019
+
+I need to finish the book before I work on this project (ace). I'll work on this after I complete the book.
+It takes too much thought after my job to work on two projects that require deep thought.
+
